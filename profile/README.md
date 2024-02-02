@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/blockplacer4/blockplacer4/output/snake.svg" alt="Snake animation" />
-
 ###
+
+Die Wahrheit liegt verborgen in den Zeichen, die aus vierundsechzig Elementen bestehen. Nur wer die Kunst der Umwandlung beherrscht, kann das Geheimnis lüften.
