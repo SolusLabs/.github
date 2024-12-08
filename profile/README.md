@@ -2,17 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blockplacer4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![blockplacer4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blockplacer4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuxxDevelopment&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.ibb.co/D96qZq7/KH75-World-Chat.png"  />
+![LuxxDevelopment's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuxxDevelopment&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
@@ -31,9 +23,6 @@
 ###
 
 <div align="left">
-  <a href="https://discord.gg/killerhase75" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://paypal.me/blocky287" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
@@ -42,7 +31,3 @@
 ###
 
 <br clear="both">
-
-###
-
-Die Wahrheit liegt verborgen in den Zeichen, die aus vierundsechzig Elementen bestehen. Nur wer die Kunst der Umwandlung beherrscht, kann das Geheimnis lüften.
