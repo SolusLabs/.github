@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! We are Blockyy & Luxx and we are from Germany</h2>
 
 ###
-
+## Janosch's Statiskik
 ![blockplacer4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blockplacer4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+## Lukas Statistik 
 ![LuxxDevelopment's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuxxDevelopment&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
